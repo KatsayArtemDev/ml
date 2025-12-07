@@ -1,4 +1,3 @@
-# Импорт библиотек
 import pandas as pd
 import numpy as np
 from sklearn.datasets import make_regression
